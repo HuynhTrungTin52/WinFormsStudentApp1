@@ -1,2 +1,2 @@
 # WinFormsStudentApp
-This repository is nothing more than a homework assignment, if you are not affiliated with me or this course then kindly don't try.
+This repository is nothing more than a homework assignment meant to demonstrate on setting up GitHub Repository for windows forms application
